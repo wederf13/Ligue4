@@ -3,16 +3,16 @@
 
 
 <div align="center"><p>
-    <a href="https://github.com/wederf13/Forca/pulse">
+    <a href="https://github.com/wederf13/Ligue4/pulse">
       <img alt="Last commit" src="https://img.shields.io/github/last-commit/wederf13/Forca?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
     </a>
-    <a href="https://github.com/wederf13/Forca/stargazers">
+    <a href="https://github.com/wederf13/Ligue4/stargazers">
       <img alt="Stars" src="https://img.shields.io/github/stars/wederf13/Forca?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
     </a>
-    <a href="https://github.com/wederf13/Forca/issues">
+    <a href="https://github.com/wederf13/Ligue4/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/wederf13/Forca?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
     </a>
-    <a href="https://github.com/wederf13/Forca">
+    <a href="https://github.com/wederf13/Ligue4">
       <img alt="Repo Size" src="https://img.shields.io/github/repo-size/wederf13/Forca?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
     </a>
   </div>
@@ -29,14 +29,14 @@ Este projeto foi concebido como parte do nosso trabalho acadêmico, com o propó
 No terminal, siga os comandos: 
 
 ```bash
-git clone 'https://github.com/wederf13/Forca.git'
-cd Forca
+git clone 'https://github.com/wederf13/Ligue4.git'
+cd Ligue4
 make
 ```
 #### Uso
 Para executar:
 ```bash
-./forca
+./ligue4
 ```
 
 ### Windows
